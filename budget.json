@@ -1,0 +1,25 @@
+{
+    "income": 20000.0,
+    "expenses": [
+        {
+            "category": "Foods",
+            "amount": 100.0,
+            "description": "Momo"
+        },
+        {
+            "category": "Clothes",
+            "amount": 1000.0,
+            "description": "Pant, Shirt, belt"
+        },
+        {
+            "category": "Electricity",
+            "amount": 10000.0,
+            "description": "Mangsir electricity exp"
+        },
+        {
+            "category": "Travelling Expenses",
+            "amount": 1000.0,
+            "description": "College going expenses"
+        }
+    ]
+}
